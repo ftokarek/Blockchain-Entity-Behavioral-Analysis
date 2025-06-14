@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+xgboost
+lightgbm
+polars
+jupyter
+notebook
+torch
+prophet
+umap-learn
+hdbscan
+pyarrow
