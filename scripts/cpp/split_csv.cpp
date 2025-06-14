@@ -5,9 +5,9 @@
 
 int main() 
 {
-    std::ifstream infile("../../data/btc_and_eth_data.csv");
-    std::ofstream btcfile("../../data/btc_data.csv");
-    std::ofstream ethfile("../../data/eth_data.csv");
+    std::ifstream infile("../../data/raw/btc_and_eth_data.csv");
+    std::ofstream btcfile("../../data/btc/btc_data.csv");
+    std::ofstream ethfile("../../data/eth/eth_data.csv");
 
     if (!infile.is_open() || !btcfile.is_open() || !ethfile.is_open()) 
     {
