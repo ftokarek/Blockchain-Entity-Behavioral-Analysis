@@ -1,0 +1,4 @@
+Date,tx_count,total_fees,active_addresses,is_outlier_tx_count,is_outlier_total_fees,is_outlier_active_addresses,any_outlier
+2025-03-03,304,0.15631165,608,True,False,True,True
+2025-04-10,416,0.2114338,832,True,False,True,True
+2025-05-11,201,0.09451955,402,True,True,True,True
